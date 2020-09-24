@@ -3,6 +3,7 @@ var CopyWebpackPlugin = require('copy-webpack-plugin');
 
 module.exports = {
     entry: './src/index.js',
+    mode: 'development',
     devtool: 'inline-source-map',
     devServer: {
         contentBase: './build'
