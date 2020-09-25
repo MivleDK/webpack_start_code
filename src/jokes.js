@@ -21,7 +21,7 @@ class Jokes {
     }
 }
 
-//Setup some dummy test persons
+//Setup some dummy test data
 const initialData = [
     "A day without sunshine is like, night.",
     "At what age is it appropriate to tell my dog that he's adopted?",
